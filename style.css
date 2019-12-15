@@ -1,0 +1,15 @@
+.container{
+    font-family: 'Cinzel Decorative', cursive;
+}
+.left
+{
+    background-image: url(img/forest2.jpg) !important;
+}
+.right
+{
+    background-image: url(img/forest.jpg) !important; 
+}
+.col-6
+{
+    background-image: url(img/forest2.jpg) !important;
+}
